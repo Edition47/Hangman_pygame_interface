@@ -5,4 +5,4 @@
 # The Pygame_textinput module:
   Copyright 2017, Silas Gyger, silasgyger@gmail.com, All rights reserved.
   Borrowed from https://github.com/Nearoo/pygame-text-input under the MIT license
-# Put toghether by me : Toader Eduard (Edition47)
+# Put toghether by me : Toader Eduard Mihail
