@@ -9,7 +9,7 @@ import pygame_textinput as pytin
 textinput = pytin.TextInput(font_family="comicsans", font_size=50)
 # load images
 images = []
-for i in range(8):
+for i in range(7):
     image = pygame.image.load("img/hangman" + str(i) + ".png")
     images.append(image)
 
